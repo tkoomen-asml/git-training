@@ -1,0 +1,3 @@
+class { "new":
+  # bla bla
+}
